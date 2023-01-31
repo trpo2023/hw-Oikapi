@@ -1,3 +1,4 @@
-//
-// Created by seryy on 31.01.2023.
-//
+int main()
+{
+    return 0;
+}
